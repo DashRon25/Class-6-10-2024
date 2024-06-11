@@ -11,7 +11,9 @@ library(tidyverse)
 ```
 
 ```{r}
-nyc <- read.csv("data/nyc_tracts.csv")
+nyc <- read_csv("data/nyc_tracts.csv")
+
 ```
+
 
 
