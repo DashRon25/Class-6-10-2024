@@ -6,13 +6,12 @@ execute:
   echo: false
 ---
 ```{r}
+#| message: false
 library(tidyverse)
-library(primer.data)
 ```
 
 ```{r}
-read.csv("data/nyc_tracts.csv")
-
+nyc <- read.csv("data/nyc_tracts.csv")
 ```
 
 
