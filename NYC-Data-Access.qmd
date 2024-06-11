@@ -11,6 +11,7 @@ library(primer.data)
 ```
 
 ```{r}
+read.csv("data/nyc_tracts.csv")
 
 ```
 
