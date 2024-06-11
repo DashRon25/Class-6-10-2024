@@ -1,0 +1,17 @@
+---
+title: "NYC Tracts Script"
+author: "Ronit Dash"
+format: html
+execute: 
+  echo: false
+---
+```{r}
+library(tidyverse)
+library(primer.data)
+```
+
+```{r}
+
+```
+
+
